@@ -2,8 +2,8 @@
 My name is Naqeeb and I am a Director of Engineering at 4C Insights, a self-serve ad-tech firm. I oversee the integration of all Digital Advertising platforms.
 
 ## Bio
-- Enabler of team leads and individual contributors
-- Formerly a full-stack developer (JS/Python). Specifically, I lean towards the back-end (Python/Java)
+- I am an enabler of team leads and individual contributors
+- I am formerly a full-stack developer (JS/Python). Specifically, I lean towards the back-end (Python/Java)
 - I still enjoy coding and architecting :)
 
 <!--
