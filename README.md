@@ -1,6 +1,10 @@
 ## Naqeeb Memon -- @naqeeb 👋
 My name is Naqeeb and I am a Director of Engineering at 4C Insights, a self-serve ad-tech firm. I oversee the integration of all Digital Advertising platforms.
 
+## Bio
+- Enabler of team leads and individual contributors
+- Formerly a full-stack developer (JS/Python). Honestly, I tend to lean towards the back-end (Python/Java)
+- I still enjoy coding :)
 
 <!--
 **naqeeb/naqeeb** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
