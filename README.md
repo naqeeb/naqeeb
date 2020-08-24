@@ -1,5 +1,5 @@
 ## Naqeeb Memon -- @naqeeb 👋
-My name is Naqeeb and I am a Director of Engineering at 4C Insights, a self-serve ad-tech firm. I oversee the integration of all Digital Advertising platforms.
+My name is Naqeeb and I am a Director of Engineering at Mediaocean, a self-service based ad-tech firm. I oversee the integration of all Digital Advertising platforms.
 
 ## Bio
 - I am an enabler of team leads and individual contributors
