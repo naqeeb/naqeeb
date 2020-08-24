@@ -3,7 +3,7 @@ My name is Naqeeb and I am a Director of Engineering at Mediaocean, a self-servi
 
 ## Bio
 - I am an enabler of team leads and individual contributors
-- I am formerly a full-stack developer (JS/Python). Specifically, I lean towards the back-end (Python/Java)
+- I am formerly a full-stack developer (JS). Specifically, I lean towards the back-end (Python)
 - I still enjoy coding and architecting :)
 
 <!--
