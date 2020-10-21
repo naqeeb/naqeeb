@@ -1,9 +1,9 @@
 ## Naqeeb Memon -- @naqeeb 👋
-My name is Naqeeb and I am a Director of Engineering at Mediaocean, a self-service based ad-tech firm. I oversee the integration of all Digital Advertising platforms.
+My name is Naqeeb and I am a Sr. Director of Engineering at Mediaocean, a system of record for advertising. I oversee the integration of all Digital Advertising platforms.
 
 ## Bio
 - I am an enabler of team leads and individual contributors
-- I am formerly a full-stack developer (JS). Specifically, I lean towards the back-end (Python)
+- I am formerly a full-stack developer (JS). Specifically, I specialized on the back-end (Python)
 - I still enjoy coding and architecting :)
 
 <!--
